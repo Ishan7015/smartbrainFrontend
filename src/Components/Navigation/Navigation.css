@@ -1,0 +1,13 @@
+.signOut {
+	display: flex;
+	justify-content: flex-end;
+	margin: 30px;
+	text-decoration: underline;
+	color: #1F0505;
+	cursor: pointer;
+	font-size: 25px;
+}
+
+.signOut:hover{
+	color: #442F2F;
+}
