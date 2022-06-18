@@ -5,7 +5,7 @@ const ImageLink =({onInputChange, onButtonSubmit})=>{
 	return(
 		<div>
 			<p className='f3'>
-				{"Baap ka, Dada ka, Bhai ka, Sbka Face Recognize kr lega. Tu bas Photo Nikal"}
+				{"Paste the link of image for face detection."}
 			</p>
 			<div className='center'>
 				<div className='pa4 br3 shadow-5 center form'>
