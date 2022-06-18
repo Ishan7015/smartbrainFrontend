@@ -4,7 +4,7 @@ const Rank = (props) =>{
 	return(
 		<div>	
 			<div className='white f4'>
-				{`${props.name}, wah bete wa, moj kr di, je tum toh bade heavy driver ho`}
+				{`${props.name}, number of photos uploaded is:`}
 			</div>
 			<div className='white f1'>
 				{props.count}
